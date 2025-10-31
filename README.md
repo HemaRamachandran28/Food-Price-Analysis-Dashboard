@@ -47,3 +47,44 @@ The project is built using Python, Streamlit, and Pandas, and is structured for 
 ## Dashboard Home
 
 <img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/06edce1d-b2cd-4d37-b00b-e5eeb5f1ae81" />
+
+---
+
+## State Filter
+
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/37326abe-a3c5-4f1e-b33d-8f13f9bfbd07" />
+
+---
+
+## Commodity Filter
+
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/c15f488a-a325-42f5-a505-f2181f424d76" />
+
+---
+
+## Price Trend Visualization
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/09e875c8-17b0-4785-b32c-25b1e1e9f402" />
+
+---
+
+## Top 5 Commodities
+
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/6e437da5-231e-42bb-b5c4-eece891d4c62" />
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+---
+
+## Show Your Support
+
+If you like this project, please Star it on GitHub!
+Contributions, feedback, and suggestions are always welcome.
+
+
+
+
